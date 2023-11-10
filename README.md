@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer engineering at Chulalongkorn University.
 - 💞️ I’m looking to collaborate on programming stuff.
 - 📫 How to reach me ...
-      e-mail: sushicud55@gmail.com
+      e-mail: sukonthamarnratchapol@gmail.com
       FB: Ratchapol Sukonthamarn
       IG: @sushi_ratchapol
 
